@@ -1,3 +1,8 @@
-- Added files practiceSprint3.ipynb and sprint3.ipynb
-- Actual augur visualizations will be in sprint3.ipynb but had trouble figuring out how to display data from database so used practiceSprint3.ipynb to show the graph that I'd like to display using Augur data once I figure out what I'm doing
-- Next Steps: use augur data for visualizations
+# Sprint 4 Report
+- Final version of repository found in forked augur community reports: 
+  - Run sprint4.ipynb and finalSprint.ipynb
+  - sprint4.ipynb features code change count/week and lines of code added/week with hover tool and tabs
+    -  Could not connect to augur database so used hardcoded values found in excel
+    -  Had trouble grouping data together so visualization is scattered
+  -  finalSprint.ipynb features contributor template with added hover tool and line graph visualization
+-  Had trouble figuring out how to connect to augur database and process data using python
